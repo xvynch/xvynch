@@ -1,41 +1,43 @@
-# Hi, I'm Vynch 👋
+## Portfolio
 
-## About Me
-BS Information Systems student focused on:
+Hello Stranger, Welcome to my Academic Portfolio!
+
+This portfolio serves as a collection of my academic projects, achievements, and learning experiences throughout my journey as a Bachelor of Science in Information Systems (BSIS) student. It showcases my growth, technical skills, and passion for technology, highlighting the knowledge and practical experience I have gained through coursework, system development projects, and continuous self-learning.
+
+My goal is to continuously develop my skills in information systems, artificial intelligence, and digital technologies while building solutions that create value and improve everyday processes.
+
+### About Me
+
+###### Academic Information
+- 🎓 Peter Frellvynch Noel A. Miranda
+- 🏫 BS Information Systems Student
+- 📍 Davao del Norte State College
+- 📅 Expected Graduation: 2028
+
+###### Interests
+
+- 🤖 Exploring AI Tools
+- 💬 Prompt Engineering
+- 🎨 Digital Art
+
+I am passionate about artificial intelligence, prompt engineering, and digital productivity. I believe in using technology not just to work harder but to work smarter. I enjoy exploring emerging AI tools, experimenting with effective prompting techniques, and discovering innovative ways to improve workflows and efficiency.
+
+###### For more information ABOUT ME you can check my web portfolio below, where it showcases my Personal and Academic Portfolio!
+
+### Skills
 
 - Prompt Engineering
-- AI Workflow Design
-- Business Process Modeling
+- AI Tools
 
-## Featured Project
-
-System Analysis and Design a Management System for EverGreen Legacy Corp
-
-###### What is EverGreen Legacy Corp?
-
-EverGreen Legacy Corp is a Philippine-based insurance and financial services company offering life, legacy, and preneed plans for Filipino families. It operates through branches managed by Branch Managers, with Cashiers handling client transactions and a General Manager overseeing the entire organization.
-
-###### EverGreen Login Page
-
-![LOGIN PAGE](Evergreen-Login-Page.png)
-
-###### What is the purpose of the system?
-
-The EverGreen Legacy Corp Management System is a centralized digital platform built to streamline and modernize the company's daily operations, replacing manual, paper-based processes with an efficient, transparent, and accountable system for managing clients, policies, payments, and claims across all branches.
-
-###### EverGreen Dashboard
-
-![DASHBOARD](Evergreen-Dashboard.png)
-
-Special credits to **Reuben Juen** and **Greg Ramos** as my teammates, for their dedication, collaboration, and invaluable
-contributions to the successful development of the entire system.
-
-## Tools
+## Tools Used
 - ChatGPT
 - Claude
 - Canva
 - Figma
 
-## Connect
+### Connect
+
 - Portfolio: https://vynchpf.my.canva.site
-- LinkedIn: https://www.linkedin.com/in/xvynch
+- Email: vynchmiranda@gmail.com
+- LinkedIn: www.linkedin.com/in/xvynch
+- Phone: +63 994 197 6948
