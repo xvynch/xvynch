@@ -33,8 +33,8 @@ I am passionate about artificial intelligence, prompt engineering, and digital p
 ### Tools Used
 - ChatGPT
 - Claude
-- Canva
 - Figma
+- Canva
 
 ## Connect
 
