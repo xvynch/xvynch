@@ -29,13 +29,13 @@ I am passionate about artificial intelligence, prompt engineering, and digital p
 - Prompt Engineering
 - AI Tools
 
-## Tools Used
+### Tools Used
 - ChatGPT
 - Claude
 - Canva
 - Figma
 
-### Connect
+## Connect
 
 - Portfolio: https://vynchpf.my.canva.site
 - Email: vynchmiranda@gmail.com
