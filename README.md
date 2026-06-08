@@ -34,6 +34,8 @@ contributions to the successful development of the entire system.
 - ChatGPT
 - Claude
 - Canva
+- Figma
 
 ## Connect
 Portfolio: https://vynchpf.my.canva.site
+LinkedIn: https://www.linkedin.com/in/xvynch
