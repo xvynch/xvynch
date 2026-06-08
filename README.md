@@ -22,7 +22,7 @@ My goal is to continuously develop my skills in information systems, artificial 
 
 I am passionate about artificial intelligence, prompt engineering, and digital productivity. I believe in using technology not just to work harder but to work smarter. I enjoy exploring emerging AI tools, experimenting with effective prompting techniques, and discovering innovative ways to improve workflows and efficiency.
 
-###### For more information ABOUT ME you can check my web portfolio below, where it showcases my Personal and Academic Portfolio!
+###### For more information about me you can check my web portfolio below, where it showcases my Personal and Academic Portfolio!
 
 ### Skills
 
