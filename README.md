@@ -37,5 +37,5 @@ contributions to the successful development of the entire system.
 - Figma
 
 ## Connect
-Portfolio: https://vynchpf.my.canva.site
-LinkedIn: https://www.linkedin.com/in/xvynch
+- Portfolio: https://vynchpf.my.canva.site
+- LinkedIn: https://www.linkedin.com/in/xvynch
