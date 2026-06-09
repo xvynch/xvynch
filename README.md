@@ -39,6 +39,4 @@ I am passionate about artificial intelligence, prompt engineering, and digital p
 ## Connect
 
 - Portfolio: https://xvynch.github.io/vportfolio.github.io
-- Email: vynchmiranda@gmail.com
 - LinkedIn: www.linkedin.com/in/xvynch
-- Phone: +63 994 197 6948
