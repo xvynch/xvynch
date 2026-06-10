@@ -38,5 +38,5 @@ I am passionate about artificial intelligence, prompt engineering, and digital p
 
 ## Connect
 
-- Portfolio: https://xvynch.github.io/vportfolio/
+- Portfolio: https://xvynch.github.io/vportfolio
 - LinkedIn: www.linkedin.com/in/xvynch
