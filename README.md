@@ -36,7 +36,7 @@ I am passionate about artificial intelligence, prompt engineering, and digital p
 - Figma
 - Canva
 
-## Connect
+## Connect With Me
 
 - Portfolio: https://xvynch.github.io/vportfolio
 - LinkedIn: www.linkedin.com/in/xvynch
